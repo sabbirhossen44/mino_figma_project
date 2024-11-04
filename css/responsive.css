@@ -1,0 +1,407 @@
+
+@media only screen and (max-width: 1247px){
+    /* home page style start */
+    .overview_text{
+        padding-left: 5vw;
+    }
+    /* home page style end */
+}
+@media only screen and (max-width: 1199px){
+    /* blog area start */
+    .Precision_area_single_part h2{
+        font-size: 1.2rem;
+    }
+    /* blog area end */
+}
+@media only screen and (max-width: 1110px){
+    /* home page style start */
+    .overview_text_area p{
+        font-size: 0.8rem;
+    }
+    .sustainable_farm_text{
+        margin-left: 0 !important;
+    }
+    /* home page style end */
+}
+@media only screen and (max-width: 1024px){
+    /* appFeatures_area start */
+
+    .single_appFeatures_img img{
+        width: 100% !important;
+    }
+    /* appFeatures_area end */
+}
+@media only screen and (max-width: 991px) {
+    /* home page style start */
+    .footer_logo{
+        flex: 0.6 !important;
+    }
+    
+    .footer_menu1{
+        flex: 0.6 !important;
+        text-align: right;
+    }
+    .footer_menu2{
+        flex: 0.6 !important;
+    }
+    .footer_menu3{
+        flex: 0.6 !important;
+    }
+    .overview_text_area p{
+        font-size: 0.7rem;
+    }
+    .app_single_text h3{
+        font-size: 2.1rem;
+    }
+    .app_single_text p{
+        font-size: 1rem;
+    }
+    .sustainable_farm_text h2{
+        font-size: 1.2rem;
+        line-height: 24px;
+    }
+    .sustainable_farm_single_text h4{
+        font-size: 0.8rem;
+    }
+    .feedback h1{
+        font-size: 2rem;
+    }
+    .feedback_text{
+        width: 80% !important;
+    }
+    /* home page style end */
+
+    /* appFeatures_area  style start*/
+
+    .appFeatures_top_text h2{
+        font-size: 2rem;
+    }
+
+    .single_appFeatures_text h2{
+        font-size: 1.5rem;
+    }
+    .single_appFeatures_text p{
+        font-size: 0.7rem;
+    }
+
+    /* appFeatures_area  style end*/
+
+    /* contact area start */
+    .form_contorl input{
+        width: 100%;
+        padding: 10px 20px;
+    }
+    .form_contorl textarea{
+        height: 10vh;
+        width: 100%;
+        padding: 10px 20px;
+    }
+    .contact_btn{
+        font-size: 1.3rem;
+        width: 100%;
+    }
+    /* contact area end */
+    /* blog atea start */
+    .Precision_area_single_part h2{
+        font-size: 1rem;
+    }
+    .Precision_area_single_part p{
+        font-size: 0.8rem;
+    }
+    .Precision_area_single_part a{
+        font-size: 0.7rem;
+    }
+    .advice_area_img a{
+        font-size: 0.7rem;
+    }
+    /* blog atea end */
+    
+}
+@media only screen and (max-width: 790px){
+    /* home page style start */
+    .overview_text_area p{
+        font-size: 0.66rem;
+    }
+    .overview_text_area h1{
+        font-size: 2rem;
+    }
+    /* home page style end */
+    
+    
+}
+@media only screen and (max-width: 767px){
+    /* home page style start */
+    .footer_buttom_contant{
+        flex-direction: column;
+        gap: 0.5rem;
+        align-items: center;
+    }
+    .overview_text{
+        width: 100vw;
+    }
+    .overview_img{
+        width: 100vw;
+    }
+    .overview_area{
+        flex-direction: column;
+        flex-direction: column-reverse;
+    }
+    .overview_text_area p{
+        font-size: 1rem;
+    }
+    .overview_text_area h1{
+        font-size: 2rem;
+    }
+    .overview_img_area{
+        gap: 0.7rem;
+    }
+    .app_offers_heading h1{
+        font-size: 1.6rem;
+    }
+    .app_single_text h3{
+        font-size: 1.8rem;
+    }
+    .app_single_img img{
+        width: 25vw !important;
+    }
+    .our_unique_top_pera p{
+        font-size: 0.8rem;
+        margin-top: 1rem;
+    }
+    .sustainable_farm_text{
+        margin-top: 1rem;
+    }
+    .sustainable_farm_area {
+        padding: 50px 0 0;
+    }
+    .feedback_text{
+        width: 88% !important;
+    }
+    .feedback_text p{
+        font-size: 0.7rem;
+    }
+    /* home page style end */
+    /* appFeatures_area start */
+    .single_appFeatures_area{
+        flex-direction: column !important;
+        flex-direction: column-reverse !important;
+    }
+    .single_appFeatures_img{
+        text-align: center !important;
+    }
+    .single_appFeatures_img img{
+        width: 80% !important;
+    }
+    /* appFeatures_area end */
+    /* microfinance_area start  */
+    .microfinance_area h2{
+        font-size: 1.5rem;
+    }
+    .microfinance_area p{
+        font-size: 0.8rem;
+        margin-top: 1rem;
+    }
+    .microfinance_area h4{
+        font-size: 1.5rem;
+        margin-top: 50px;
+    }
+    /* microfinance_area end */
+    /* contact area start */
+    .contact_right_area{
+        padding: 1rem 0 1rem 2rem;
+    }
+    .contact_right_area_img{
+        text-align: center;
+    }
+    /* contact area end */
+    /* blog area start */
+    .Precision_area h1{
+        font-size: 1.8rem;
+    }
+    .Precision_area{
+        margin-top: 50px;
+    }
+    /* blog area end */
+    
+}
+@media only screen and (max-width: 452px){
+    /* home page style start */
+    .footer_top_icon{
+        flex-direction: column;
+        gap: 1rem;
+        margin-top: 1rem;
+    }
+    /* home page style end */
+    /* appFeatures_area  style start*/
+    .appFeatures_top_text h2{
+        font-size: 1.4rem;
+    }
+    /* appFeatures_area  style end*/
+    /* microfinance_area start  */
+    .microfinance_area h2{
+        font-size: 1.2rem;
+    }
+    .microfinance_area h4{
+        font-size: 1.2rem;
+        margin-top: 50px;
+    }
+    .microfinance_area p{
+        font-size: 0.6rem;
+        margin-top: 0.8rem;
+    }
+    /* microfinance_area end */
+    /* terms_area start */
+    .terms_top_area h2{
+        font-size: 1.7rem;
+    }
+    /* terms_area end */
+}
+@media only screen and (max-width: 578px){
+    /* home page style start */
+   .download_contant{
+    flex-direction: column-reverse;
+    gap: 10px;
+   } 
+   /* home page style end */
+}
+@media only screen and (max-width: 520px){
+    /* home page style start */
+
+    .overview_text_area p{
+        font-size: 0.8rem;
+    }
+    .overview_text_area h1{
+        font-size: 2rem;
+    }
+    .app_offers_heading h1{
+        font-size: 1.5rem;
+    }
+    .app_single_text h3{
+        font-size: 1.8rem;
+    }
+    .app_single_text a{
+        font-size: 0.8rem !important;
+    }
+    .app_single_img img{
+        width: 30vw !important;
+    }
+    .feedback h1{
+        font-size: 1.1rem;
+    }
+    /* home page style end */
+    /* blog area start */
+    .blog_banner_text p{
+        font-size: 0.8rem;
+    }
+    /* blog area end */
+}
+
+@media only screen and (max-width: 425px){
+    /* home page style start */
+    /* footer area start */
+    .footer_menu3 a, 
+    .footer_menu2 a,
+    .footer_menu1 a{
+        font-size: 0.7rem;
+    }
+    /* footer area end */
+    .overview_text_area p{
+        font-size: 0.7rem;
+    }
+    .overview_text_area h1{
+        font-size: 1.5rem;
+    }
+    .overview_img_area{
+        gap: 0.5rem;
+    }
+    .app_single_text h3{
+        font-size: 1.2rem;
+    }
+    .app_single_text p{
+        font-size: 0.8rem !important;
+    }
+    .app_single_text a{
+        font-size: 0.6rem !important;
+    }
+    .app_single_img img{
+        width: 35vw !important;
+    }
+    .app_offers_button a{
+        font-size: 0.7rem;
+        letter-spacing: 1px;
+    }
+    /* home page style end */
+    /* blog area start */
+    .blog_banner_text h2{
+        font-size: 2rem;
+    }
+    .blog_banner_text p{
+        font-size: 0.7rem;
+    }
+    .blog_banner_text a{
+        font-size: 1rem;
+    }
+    /* blog area end */
+}
+
+
+@media only screen and (max-width: 380px){
+    /* home page style start */
+    
+    .footer_buttom a,
+    .footer_buttom_right p{
+        font-size: 0.7rem;;
+    }
+    .overview_text_area p{
+        font-size: 0.6rem;
+    }
+    .app_single_text h3{
+        font-size: 1.1rem;
+    }
+    .app_single_text p{
+        font-size: 0.66rem !important;
+        padding-top: 10px;
+    }
+    .app_single_text a{
+        font-size: 0.5rem !important;
+    }
+    .app_single_img img{
+        width: 35vw !important;
+    }
+    .app_offers_button a{
+        font-size: 0.7rem;
+        padding: 0.7rem 1rem;
+    }
+    .sustainable_farm_single_text h4{
+        font-size: 0.7rem;
+    }
+    .download_text_are p{
+        font-size: 0.8rem;
+    }
+    /* home page style end */
+    /* appFeatures_area  style start*/
+    .appFeatures_top_text h2{
+        font-size: 1.3rem;
+    }
+    .appFeatures_top_text a{
+        font-size: 0.6rem;
+    }
+    /* appFeatures_area  style end*/
+    /* contact area start */
+    .contact_left_area{
+        padding: 30px 10px 0;
+    }
+    /* contact area end */
+    /* blog area start */
+    
+    .blog_banner_text p{
+        font-size: 0.6rem;
+    }
+    .Precision_area h1{
+        font-size: 1.5rem;
+    }
+    .advice_area h1{
+        font-size: 2rem;
+    }
+    /* blog area end */
+}
